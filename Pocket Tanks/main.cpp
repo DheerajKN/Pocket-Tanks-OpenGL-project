@@ -46,7 +46,7 @@ int turn=PLAYER_2;
 int idle=-1;
 int window;
 int arrow_x=0,arrow_y=0,arrow_down=1,arrowpos=10,disparrow=0;
-float p1_Score=50,p2_Score=50;
+float p1_Score=500,p2_Score=500;
 
 void G(int x, int y){
 glBegin(GL_QUADS);
