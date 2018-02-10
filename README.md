@@ -29,4 +29,8 @@ g++ file.cpp -lglut -lGLU -lGL  or   gcc file.c -lglut -lGLU -lGL
   * User has the Option to change the Angle and Fire Power using those he can strategically throw Ammution on the Opponent and the near Proximity of the Weapon Impact would generate the level of Health Deduction.
   * Thus when health reaches 0 or Negative then his Opponent Wins the Game!!
   
- 
+## Important Note
+Any user using this Repo should include this Git link and Contributor's name in their work.
+
+## Contributors
+K. N. Dheeraj (kndheeraj0@gmail.com)
